@@ -25,7 +25,7 @@ body {
 .ring i {
   position: absolute;
   inset: 0;
-  border: 2px solid #fff;
+  border: 2px solid #transparent;
   transition: 0.5s;
 }
 .ring i:nth-child(1) {
